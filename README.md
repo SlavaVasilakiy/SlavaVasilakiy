@@ -1,1 +1,1493 @@
-<div class="resume-applicant"><div class="bloko-column bloko-column_xs-4 bloko-column_s-8 bloko-column_m-9 bloko-column_l-12"><div class="resume-moderation-controls"><div class="bloko-gap bloko-gap_bottom"><a class="bloko-link" href="/applicant/resumes?hhtmFrom=resume">К списку резюме</a></div></div></div><div class="bloko-columns-row"><div class="bloko-column bloko-column_container bloko-column_xs-4 bloko-column_s-8 bloko-column_m-12 bloko-column_l-16"><div class="bloko-columns-row"><div class="bloko-column bloko-column_container bloko-column_xs-4 bloko-column_s-8 bloko-column_m-12 bloko-column_l-16"><div class="resume-header-wrapper"><div class="resume-header"><div class="bloko-column bloko-column_xs-4 bloko-column_s-8 bloko-column_m-9 bloko-column_l-12"><div class="bloko-gap bloko-gap_bottom"><div class="resume-header-main" id="a11y-main-content"><div class="resume-header-title"><div class="resume-header-photo-mobile" data-qa="resume-photo-mobile"><div class="resume-media"><div data-qa="resume-photo"><img src="https://img.hhcdn.ru/photo/714647063.jpeg?t=1720290614&amp;h=ZRnnbnaCSZ5dAIbdnyNiQw" loading="lazy" alt="" class="resume-media__image" data-qa="resume-photo-image"><p><a data-qa="resume-block-photo-edit" class="resume-block-edit" href="/applicant/resumes/edit/photo?resume=a9f839d8ff01690f860039ed1f5568315a4a7a&amp;hhtmFrom=resume"><span class="bloko-text bloko-text_small">Изменить фото</span></a></p></div><div class="bloko-v-spacing bloko-v-spacing_base-2"></div></div></div><div class="resume-online-status resume-online-status_online">Сейчас на&nbsp;сайте</div><div class="resume-header-name"><h2 data-qa="resume-personal-name" class="bloko-header-1"><span>Василакий Вячеслав</span></h2><div class="bloko-v-spacing bloko-v-spacing_base-4"></div></div><p><span data-qa="resume-personal-gender">Мужчина</span>, <span data-qa="resume-personal-age"><span>36&nbsp;лет</span></span>, родился&nbsp;<span data-qa="resume-personal-birthday"><span>16&nbsp;мая&nbsp;1988</span></span></p><p><a data-qa="resume-block-personal-edit" class="resume-block-edit resume-block-edit_capitalize" href="/applicant/resumes/edit/personal?resume=a9f839d8ff01690f860039ed1f5568315a4a7a&amp;hhtmFrom=resume"><span class="bloko-text bloko-text_small">редактировать</span></a></p><div class="magritte-v-spacing___R3QYf_2-0-22" style="--magritte-spacing-xs: 4px; --magritte-spacing-s: 4px; --magritte-spacing-m: 4px; --magritte-spacing-l: 4px; --magritte-spacing-xl: 4px; --magritte-spacing-xxl: 4px;"></div><div class="resume-job-search-status"><div class="bloko-v-spacing bloko-v-spacing_base-4"></div><span class="label--rWRLMsbliNlu_OMkM_D3 label_light-green--oMhc5Pq9VsjySzrrLOTh" data-qa="job-search-status">Активно ищу работу</span><div class="bloko-v-spacing bloko-v-spacing_base-4"></div></div><div class="bloko-translate-guard"><p><span data-qa="resume-personal-address">Новороссийск</span>, готов к переезду (Москва), готов к командировкам</p><p><a data-qa="resume-block-personal-edit" class="resume-block-edit resume-block-edit_capitalize" href="/applicant/resumes/edit/personal?resume=a9f839d8ff01690f860039ed1f5568315a4a7a&amp;hhtmFrom=resume"><span class="bloko-text bloko-text_small">редактировать</span></a></p></div><div class="resume-header-field"><div data-qa="resume-block-contacts"><div class="bloko-text bloko-text_tertiary">Контакты</div><div class="bloko-v-spacing bloko-v-spacing_base-1"></div><div data-qa="resume-serp_resume-item-content"><div data-qa="resume-contacts-phone"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" data-qa="mark-valid-icon" class="bloko-icon bloko-icon_initial-green-60"><path d="M13.3333 4L6.66659 10.6667L3.33325 7.33333" stroke="var(--bloko-icon-color, var(--bloko-icon-color-default))" stroke-width="1.33333" stroke-linecap="round" stroke-linejoin="round"></path></svg>&nbsp;<a data-qa="resume-contact-preferred" href="tel:+79186511211" class="bloko-link bloko-link_kind-tertiary">+7 (918) 651-12-11</a><div class="bloko-translate-guard"><div class="bloko-translate-guard">&nbsp;— предпочитаемый способ связи</div></div><div class="resume-search-item-phone-verification-status"><div class="bloko-text bloko-text_small">Телефон подтвержден</div></div></div></div><div data-qa="resume-contact-email"><a href="mailto:slk55@mail.ru"><span>slk55@mail.ru</span></a></div><div data-qa="resume-personalsite-personal"><a href="https://t.me/SlavaVasilakii" target="_blank" rel="noopener noreferrer" class="bloko-link">https://t.me/SlavaVasilakii</a></div><p><a data-qa="resume-block-contacts-edit" class="resume-block-edit resume-block-edit_capitalize" href="/applicant/resumes/edit/contacts?resume=a9f839d8ff01690f860039ed1f5568315a4a7a&amp;hhtmFrom=resume"><span class="bloko-text bloko-text_small">редактировать</span></a></p><div class="bloko-v-spacing bloko-v-spacing_base-1"></div><div class="pinned-messages--MJfysYeiLelPoh756r2j"></div></div></div><div class="resume-header-print-update-date">Резюме обновлено&nbsp;<span>05.07.2024 20:29</span></div></div><div class="resume-header-photo-desktop" data-qa="resume-photo-desktop"><div class="resume-media"><div data-qa="resume-photo"><img src="https://img.hhcdn.ru/photo/714647063.jpeg?t=1720290614&amp;h=ZRnnbnaCSZ5dAIbdnyNiQw" loading="lazy" alt="" class="resume-media__image" data-qa="resume-photo-image"><p><a data-qa="resume-block-photo-edit" class="resume-block-edit" href="/applicant/resumes/edit/photo?resume=a9f839d8ff01690f860039ed1f5568315a4a7a&amp;hhtmFrom=resume"><span class="bloko-text bloko-text_small">Изменить фото</span></a></p></div><div class="bloko-v-spacing bloko-v-spacing_base-2"></div></div></div></div><div><div class="bloko-v-spacing bloko-v-spacing_base-2"></div><p>Указан примерный район поиска работы</p><button type="button" class="bloko-link bloko-link_pseudo">Показать карту</button></div><div class="resume-map resume-map_hide"></div></div></div><div class="resume-header-additional"><div class="bloko-column bloko-column_xs-4 bloko-column_s-8 bloko-column_m-3 bloko-column_l-4"><div class="resume-header-separator"></div><div class="resume-header-actions"><form class="resume-header-actions__lang" method="POST"><input type="hidden" name="_xsrf" value="f8342117af4181c9c2edefa8eae0f464"><input type="hidden" name="resume" value="a9f839d8ff01690f860039ed1f5568315a4a7a"><input type="hidden" name="nativeForm"><select class="bloko-select bloko-select_flexible" name="lang"><option value="EN">In English</option><option value="RU" selected="">По-русски</option></select></form><div class="resume-header-actions__buttons-wrapper"><div class="bloko-form-spacer"><div class="bloko-button-group bloko-button-group_stretched"><button class="bloko-button bloko-button_icon-only" type="button" data-qa="resume-download-button" aria-label="Скачать резюме"><span class="bloko-button__icon"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" class="bloko-icon bloko-icon_initial-gray-50"><path d="M14 14H2M12 7.33333L8 11.3333M8 11.3333L4 7.33333M8 11.3333V2" stroke="var(--bloko-icon-color, var(--bloko-icon-color-default))" stroke-width="1.33333" stroke-linecap="round" stroke-linejoin="round"></path></svg></span></button><button class="bloko-button bloko-button_icon-only" type="button" data-qa="resume-print-view" aria-label="Распечатать резюме"><span class="bloko-button__icon"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" class="bloko-icon bloko-icon_initial-gray-50"><g><path d="M4.00016 6.00001V1.33334H12.0002V6.00001M4.00016 12H2.66683C2.31321 12 1.97407 11.8595 1.72402 11.6095C1.47397 11.3594 1.3335 11.0203 1.3335 10.6667V7.33334C1.3335 6.97972 1.47397 6.64058 1.72402 6.39053C1.97407 6.14049 2.31321 6.00001 2.66683 6.00001H13.3335C13.6871 6.00001 14.0263 6.14049 14.2763 6.39053C14.5264 6.64058 14.6668 6.97972 14.6668 7.33334V10.6667C14.6668 11.0203 14.5264 11.3594 14.2763 11.6095C14.0263 11.8595 13.6871 12 13.3335 12H12.0002M4.00016 9.33334H12.0002V14.6667H4.00016V9.33334Z" stroke="var(--bloko-icon-color, var(--bloko-icon-color-default))" stroke-width="1.33333" stroke-linecap="round" stroke-linejoin="round"></path></g></svg></span></button><button class="bloko-button bloko-button_icon-only" type="button" data-qa="resume-delete" aria-label="Удалить резюме"><span class="bloko-button__icon"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" class="bloko-icon bloko-icon_initial-gray-50"><path d="M10.6667 4.00001V3.46668C10.6667 2.71994 10.6667 2.34657 10.5213 2.06136C10.3935 1.81047 10.1895 1.6065 9.93865 1.47867C9.65344 1.33334 9.28007 1.33334 8.53333 1.33334H7.46667C6.71993 1.33334 6.34656 1.33334 6.06135 1.47867C5.81046 1.6065 5.60649 1.81047 5.47866 2.06136C5.33333 2.34657 5.33333 2.71994 5.33333 3.46668V4.00001M6.66667 7.66668V11M9.33333 7.66668V11M2 4.00001H14M12.6667 4.00001V11.4667C12.6667 12.5868 12.6667 13.1468 12.4487 13.5747C12.2569 13.951 11.951 14.2569 11.5746 14.4487C11.1468 14.6667 10.5868 14.6667 9.46667 14.6667H6.53333C5.41323 14.6667 4.85318 14.6667 4.42535 14.4487C4.04903 14.2569 3.74307 13.951 3.55132 13.5747C3.33333 13.1468 3.33333 12.5868 3.33333 11.4667V4.00001" stroke="var(--bloko-icon-color, var(--bloko-icon-color-default))" stroke-width="1.33333" stroke-linecap="round" stroke-linejoin="round"></path></svg></span></button></div></div></div></div><div class="resume-header-additional__update-date"><div class="bloko-text bloko-text_small bloko-text_tertiary">Резюме обновлено&nbsp;<span>05.07.2024 20:29</span></div></div></div></div></div></div></div></div><div class="resume-header-divider"></div></div></div><div class="bloko-columns-row"><div class="noprint"></div></div><div class="resume-wrapper"><div class="bloko-columns-row"><div class="bloko-column bloko-column_container bloko-column_xs-4 bloko-column_s-8 bloko-column_m-9 bloko-column_l-12"><div class="bloko-gap bloko-gap_top"><div data-qa="resume-block-position" class="resume-block"><div class="bloko-columns-row"><div class="bloko-column bloko-column_xs-4 bloko-column_s-8 bloko-column_m-9 bloko-column_l-12"><div class="resume-block-position"><div class="resume-block__title-text-wrapper"><h2 data-qa="bloko-header-2" class="bloko-header-2"><span class="resume-block__title-text" data-qa="resume-block-title-position"><span>Frontend-разработчик</span></span></h2><a data-qa="resume-block-position-edit" class="resume-block-edit resume-block-edit_capitalize" href="/applicant/resumes/edit/position?resume=a9f839d8ff01690f860039ed1f5568315a4a7a&amp;hhtmFrom=resume"><span class="bloko-text bloko-text_small">редактировать</span></a></div></div><div class="bloko-v-spacing bloko-v-spacing_base-4"></div></div></div><div class="resume-block-item-gap"><div class="bloko-columns-row"><div class="bloko-column bloko-column_xs-4 bloko-column_s-8 bloko-column_m-9 bloko-column_l-12"><div class="resume-block-container"><div class="bloko-gap bloko-gap_bottom"><span data-qa="resume-block-specialization-category">Специализации:</span><ul><li class="resume-block__specialization" data-qa="resume-block-position-specialization">Программист, разработчик</li></ul></div><p>Занятость: полная занятость, частичная занятость, проектная работа, стажировка</p><p>График работы: полный день, сменный график, гибкий график, удаленная работа</p></div></div></div></div></div><div data-qa="resume-block-experience" class="resume-block"><div class="bloko-columns-row"><div class="bloko-column bloko-column_xs-4 bloko-column_s-8 bloko-column_m-9 bloko-column_l-12"><div class="resume-block__title-text-wrapper"><h2 data-qa="bloko-header-2" class="bloko-header-2 bloko-header-2_lite"><span class="resume-block__title-text resume-block__title-text_sub">Опыт работы <span>1&nbsp;год</span> <span>7&nbsp;месяцев</span></span></h2> <a data-qa="resume-block-experience-edit" class="resume-block-edit resume-block-edit_capitalize" href="/applicant/resumes/edit/experience?resume=a9f839d8ff01690f860039ed1f5568315a4a7a&amp;hhtmFrom=resume"><span class="bloko-text bloko-text_small">редактировать</span></a></div><div class="bloko-v-spacing bloko-v-spacing_base-4"></div></div></div><div class="resume-block-item-gap"><div class="bloko-columns-row"><div class="resume-block-item-gap"><div class="bloko-columns-row"><div class="bloko-column bloko-column_xs-4 bloko-column_s-2 bloko-column_m-2 bloko-column_l-2">Июль&nbsp;2022 — <span class="resume-block__experience-mount-last">Январь</span>&nbsp;2024<div class="bloko-text bloko-text_tertiary"><span>1&nbsp;год</span> <span>7&nbsp;месяцев</span></div></div><div class="bloko-column bloko-column_xs-4 bloko-column_s-6 bloko-column_m-7 bloko-column_l-10"><div class="resume-block-container"><div class="bloko-text bloko-text_strong"><span>Практика по Frontend-разработке</span></div><p>Москва</p><div class="resume-block__experience-industries resume-block_no-print"><p><span>Информационные технологии, системная интеграция, интернет</span><span class="resume-industries__open"><span class="bloko-text bloko-text_small bloko-text_secondary">... Показать еще</span></span></p></div><div data-qa="resume-block-experience-position" class="bloko-text bloko-text_strong"><span>Frontend-разработчик</span></div><div data-qa="resume-block-experience-description"><span>Изучил HTML, CSS, Java Script... Создал интерактивную веб-страницу для оставления и просмотра отзывов о продуктах с использованием Local Storage:<br></span><a href="https://github.com/SlavaVasilakiy/advanced-javascript/tree/main/homework_3" rel="noopener noreferrer" target="_blank">https://github.com/SlavaVasilakiy/advanced-javascript/tree/main/homework_3</a><span><br><br>Изучил работу с api, разработав веб-приложение, которое будет отображать новое случайное изображение из коллекции Unsplash, давая пользователю возможность узнать больше о фотографе и сделать "лайк" изображению:<br></span><a href="https://github.com/SlavaVasilakiy/JavaScript-about-browser-APIs/tree/main/Homework_3" rel="noopener noreferrer" target="_blank">https://github.com/SlavaVasilakiy/JavaScript-about-browser-APIs/tree/main/Homework_3</a><span><br><br>Изучил Vue.js v2, и написал итоговую работу - веб-приложение сайта с проектами интерьера, используя vue.js, vuex, store:<br></span><a href="https://github.com/SlavaVasilakiy/GB-final-work" rel="noopener noreferrer" target="_blank">https://github.com/SlavaVasilakiy/GB-final-work</a><span><br><br>Самостоятельно изучил TypeScript, в рамках учебного проекта реализовал миграцию кода:<br></span><a href="https://github.com/SlavaVasilakiy/todo-TS-migration" rel="noopener noreferrer" target="_blank">https://github.com/SlavaVasilakiy/todo-TS-migration</a></div></div></div></div></div></div></div></div><div id="key-skills"></div><div data-qa="skills-table" class="resume-block"><div class="bloko-columns-row"><div class="bloko-column bloko-column_xs-4 bloko-column_s-8 bloko-column_m-9 bloko-column_l-12"><div class="resume-block-container"><div class="resume-block__title-text-wrapper"><h2 data-qa="bloko-header-2" class="bloko-header-2 bloko-header-2_lite"><span class="resume-block__title-text resume-block__title-text_sub">Ключевые навыки</span></h2><a data-qa="resume-block-key-skills-edit" class="resume-block-edit resume-block-edit_capitalize" href="/applicant/resumes/edit/experience?resume=a9f839d8ff01690f860039ed1f5568315a4a7a&amp;field=keySkills&amp;hhtmFrom=resume"><span class="bloko-text bloko-text_small">редактировать</span></a></div><div class="bloko-v-spacing bloko-v-spacing_base-4"></div></div></div></div><div class="resume-block-item-gap"><div class="bloko-columns-row"><div class="bloko-column bloko-column_xs-4 bloko-column_s-8 bloko-column_m-9 bloko-column_l-12"><div class="resume-block-container"><div class="info-block"><div><div data-qa="bloko-drop-info-inline"><div class="bloko-info-inline"><div class="bloko-info-inline__content"><div><p>Изменить уровни владения навыками можно в&nbsp;мобильном приложении&nbsp;— на&nbsp;сайте эта возможность будет чуть позже</p></div><div class="bloko-info-inline__close"><span class="bloko-icon-dynamic"><button type="button" class="bloko-icon-link"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" class="bloko-icon bloko-icon_initial-gray-50 bloko-icon_highlighted-gray-60"><path d="M12 4L4 12M4 4L12 12" stroke="var(--bloko-icon-color, var(--bloko-icon-color-default))" stroke-width="1.33333" stroke-linecap="round" stroke-linejoin="round"></path></svg></button></span></div></div></div></div></div></div><div class="bloko-tag-list"><div class="bloko-tag bloko-tag_inline" data-qa="bloko-tag bloko-tag_inline"><div class="bloko-tag__section bloko-tag__section_icon" data-qa="bloko-tag__icon"><span><span data-qa="rank-2" class="skills-verification-methods-rank-icon skills-verification-methods-rank-2-icon skills-verification-methods-rank-2-black-icon"></span></span></div><span class="bloko-tag__section bloko-tag__section_text" data-qa="bloko-tag__text"><span>Английский язык</span></span></div><div class="bloko-tag bloko-tag_inline" data-qa="bloko-tag bloko-tag_inline"><div class="bloko-tag__section bloko-tag__section_icon" data-qa="bloko-tag__icon"><span><span data-qa="rank-3" class="skills-verification-methods-rank-icon skills-verification-methods-rank-3-icon skills-verification-methods-rank-3-black-icon"></span></span></div><span class="bloko-tag__section bloko-tag__section_text" data-qa="bloko-tag__text"><span>Git</span></span></div><div class="bloko-tag bloko-tag_inline" data-qa="bloko-tag bloko-tag_inline"><div class="bloko-tag__section bloko-tag__section_icon" data-qa="bloko-tag__icon"><span><span data-qa="rank-3" class="skills-verification-methods-rank-icon skills-verification-methods-rank-3-icon skills-verification-methods-rank-3-black-icon"></span></span></div><span class="bloko-tag__section bloko-tag__section_text" data-qa="bloko-tag__text"><span>JavaScript</span></span></div><div class="bloko-tag bloko-tag_inline" data-qa="bloko-tag bloko-tag_inline"><div class="bloko-tag__section bloko-tag__section_icon" data-qa="bloko-tag__icon"><span><span data-qa="rank-2" class="skills-verification-methods-rank-icon skills-verification-methods-rank-2-icon skills-verification-methods-rank-2-black-icon"></span></span></div><span class="bloko-tag__section bloko-tag__section_text" data-qa="bloko-tag__text"><span>Vue.js</span></span></div><div class="bloko-tag bloko-tag_inline" data-qa="bloko-tag bloko-tag_inline"><div class="bloko-tag__section bloko-tag__section_icon" data-qa="bloko-tag__icon"><span><span data-qa="rank-2" class="skills-verification-methods-rank-icon skills-verification-methods-rank-2-icon skills-verification-methods-rank-2-black-icon"></span></span></div><span class="bloko-tag__section bloko-tag__section_text" data-qa="bloko-tag__text"><span>ООП</span></span></div><div class="bloko-tag bloko-tag_inline" data-qa="bloko-tag bloko-tag_inline"><div class="bloko-tag__section bloko-tag__section_icon" data-qa="bloko-tag__icon"><span><span data-qa="rank-2" class="skills-verification-methods-rank-icon skills-verification-methods-rank-2-icon skills-verification-methods-rank-2-black-icon"></span></span></div><span class="bloko-tag__section bloko-tag__section_text" data-qa="bloko-tag__text"><span>GitHub</span></span></div><div class="bloko-tag bloko-tag_inline" data-qa="bloko-tag bloko-tag_inline"><div class="bloko-tag__section bloko-tag__section_icon" data-qa="bloko-tag__icon"><span><span data-qa="rank-2" class="skills-verification-methods-rank-icon skills-verification-methods-rank-2-icon skills-verification-methods-rank-2-black-icon"></span></span></div><span class="bloko-tag__section bloko-tag__section_text" data-qa="bloko-tag__text"><span>REST API</span></span></div><div class="bloko-tag bloko-tag_inline" data-qa="bloko-tag bloko-tag_inline"><div class="bloko-tag__section bloko-tag__section_icon" data-qa="bloko-tag__icon"><span><span data-qa="rank-1" class="skills-verification-methods-rank-icon skills-verification-methods-rank-1-icon skills-verification-methods-rank-1-black-icon"></span></span></div><span class="bloko-tag__section bloko-tag__section_text" data-qa="bloko-tag__text"><span>Figma</span></span></div><div class="bloko-tag bloko-tag_inline" data-qa="bloko-tag bloko-tag_inline"><div class="bloko-tag__section bloko-tag__section_icon" data-qa="bloko-tag__icon"><span><span data-qa="rank-3" class="skills-verification-methods-rank-icon skills-verification-methods-rank-3-icon skills-verification-methods-rank-3-black-icon"></span></span></div><span class="bloko-tag__section bloko-tag__section_text" data-qa="bloko-tag__text"><span>БЭМ</span></span></div><div class="bloko-tag bloko-tag_inline" data-qa="bloko-tag bloko-tag_inline"><div class="bloko-tag__section bloko-tag__section_icon" data-qa="bloko-tag__icon"><span><span data-qa="rank-3" class="skills-verification-methods-rank-icon skills-verification-methods-rank-3-icon skills-verification-methods-rank-3-black-icon"></span></span></div><span class="bloko-tag__section bloko-tag__section_text" data-qa="bloko-tag__text"><span>TypeScript</span></span></div><div class="bloko-tag bloko-tag_inline" data-qa="bloko-tag bloko-tag_inline"><div class="bloko-tag__section bloko-tag__section_icon" data-qa="bloko-tag__icon"><span><span data-qa="rank-2" class="skills-verification-methods-rank-icon skills-verification-methods-rank-2-icon skills-verification-methods-rank-2-black-icon"></span></span></div><span class="bloko-tag__section bloko-tag__section_text" data-qa="bloko-tag__text"><span>Webpack</span></span></div><div class="bloko-tag bloko-tag_inline" data-qa="bloko-tag bloko-tag_inline"><div class="bloko-tag__section bloko-tag__section_icon" data-qa="bloko-tag__icon"><span><span data-qa="rank-2" class="skills-verification-methods-rank-icon skills-verification-methods-rank-2-icon skills-verification-methods-rank-2-black-icon"></span></span></div><span class="bloko-tag__section bloko-tag__section_text" data-qa="bloko-tag__text"><span>npm</span></span></div><div class="bloko-tag bloko-tag_inline" data-qa="bloko-tag bloko-tag_inline"><div class="bloko-tag__section bloko-tag__section_icon" data-qa="bloko-tag__icon"><span><span data-qa="rank-3" class="skills-verification-methods-rank-icon skills-verification-methods-rank-3-icon skills-verification-methods-rank-3-black-icon"></span></span></div><span class="bloko-tag__section bloko-tag__section_text" data-qa="bloko-tag__text"><span>HTML5</span></span></div><div class="bloko-tag bloko-tag_inline" data-qa="bloko-tag bloko-tag_inline"><div class="bloko-tag__section bloko-tag__section_icon" data-qa="bloko-tag__icon"><span><span data-qa="rank-3" class="skills-verification-methods-rank-icon skills-verification-methods-rank-3-icon skills-verification-methods-rank-3-black-icon"></span></span></div><span class="bloko-tag__section bloko-tag__section_text" data-qa="bloko-tag__text"><span>CSS3</span></span></div><div class="bloko-tag bloko-tag_inline" data-qa="bloko-tag bloko-tag_inline"><div class="bloko-tag__section bloko-tag__section_icon" data-qa="bloko-tag__icon"><span><span data-qa="rank-2" class="skills-verification-methods-rank-icon skills-verification-methods-rank-2-icon skills-verification-methods-rank-2-black-icon"></span></span></div><span class="bloko-tag__section bloko-tag__section_text" data-qa="bloko-tag__text"><span>SOLID</span></span></div><div class="bloko-tag bloko-tag_inline" data-qa="bloko-tag bloko-tag_inline"><div class="bloko-tag__section bloko-tag__section_icon" data-qa="bloko-tag__icon"><span><span data-qa="rank-3" class="skills-verification-methods-rank-icon skills-verification-methods-rank-3-icon skills-verification-methods-rank-3-black-icon"></span></span></div><span class="bloko-tag__section bloko-tag__section_text" data-qa="bloko-tag__text"><span>Адаптивная верстка</span></span></div></div><div class="noprint"><div class="bloko-v-spacing bloko-v-spacing_base-6"></div><div><div class="applicant-resumes-card info-block noprint"><h3 data-qa="bloko-header-3" class="bloko-header-section-3"><span>Навыки, которые можно подтвердить</span></h3><div class="bloko-v-spacing bloko-v-spacing_base-1"></div><div class="bloko-text bloko-text_secondary">Проходите тесты и&nbsp;получайте подтверждённые уровни владения навыками в&nbsp;резюме&nbsp;— это выделит вас среди других кандидатов</div><div class="bloko-v-spacing bloko-v-spacing_base-4"></div><div class="bloko-v-spacing bloko-v-spacing_base-3"></div><div><div class="bloko-text bloko-text_strong">Ключевые навыки</div><div class="bloko-v-spacing bloko-v-spacing_base-2"></div><div class="resume-key-skills-verification-methods"><div data-qa="77" class="resume-key-skills-verification-flex"><button class="bloko-button bloko-button_stretched" type="button"><span>ООП</span></button><div class="bloko-v-spacing bloko-v-spacing_base-2"></div><div class="bloko-h-spacing bloko-h-spacing_base-2"></div></div><div data-qa="131" class="resume-key-skills-verification-flex"><button class="bloko-button bloko-button_stretched" type="button"><span>Git</span></button><div class="bloko-v-spacing bloko-v-spacing_base-2"></div><div class="bloko-h-spacing bloko-h-spacing_base-2"></div></div><div data-qa="140" class="resume-key-skills-verification-flex"><button class="bloko-button bloko-button_stretched" type="button"><span>JavaScript</span></button><div class="bloko-v-spacing bloko-v-spacing_base-2"></div><div class="bloko-h-spacing bloko-h-spacing_base-2"></div></div></div></div><div><div class="bloko-v-spacing bloko-v-spacing_base-3"></div><div class="bloko-text bloko-text_strong">Знание языка</div><div class="bloko-v-spacing bloko-v-spacing_base-2"></div><div class="resume-key-skills-verification-methods"><div data-qa="133" class="resume-key-skills-verification-flex"><button class="bloko-button bloko-button_stretched" type="button"><span>Английский A2 — Элементарный</span></button><div class="bloko-v-spacing bloko-v-spacing_base-2"></div><div class="bloko-h-spacing bloko-h-spacing_base-2"></div></div></div></div><div class="bloko-v-spacing bloko-v-spacing_base-5"></div><div class="resume-key-skills-verification-button-container"><a class="bloko-link" href="/applicant/skill_verifications/methods?resumeUrl=%2Fresume%2Fa9f839d8ff01690f860039ed1f5568315a4a7a&amp;resumeTitle=Frontend-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA&amp;hhtmFrom=resume"><button class="bloko-button bloko-button_kind-primary bloko-button_scale-small bloko-button_stretched" type="button"><span>Перейти к&nbsp;тестам</span></button></a></div></div></div></div><div class="bloko-v-spacing bloko-v-spacing_base-6"></div><div><div class="links--LbLH5v1Z0idxNOmJbaqg"><div><h3 data-qa="bloko-header-3" class="bloko-header-section-3">Чему можно научиться, пока вы&nbsp;в&nbsp;поиске</h3><div class="bloko-v-spacing bloko-v-spacing_base-2"></div><div class="bloko-text">Посмотрите курсы по&nbsp;навыкам и&nbsp;профессиям на&nbsp;карьерной платформе от&nbsp;hh.ru</div></div><a class="bloko-button bloko-button_kind-success" target="_blank" href="https://career.hh.ru/profession/40?section=courses#skills"><span>Посмотреть курсы</span></a></div></div></div></div></div></div></div><div data-qa="resume-block-driver-experience" class="resume-block"><div class="bloko-columns-row"><div class="bloko-column bloko-column_xs-4 bloko-column_s-8 bloko-column_m-9 bloko-column_l-12"><div class="resume-block-container"><div class="resume-block__title-text-wrapper"><h2 data-qa="bloko-header-2" class="bloko-header-2 bloko-header-2_lite"><span class="resume-block__title-text resume-block__title-text_sub">Опыт вождения</span></h2><a data-qa="resume-block-driver-experience-edit" class="resume-block-edit resume-block-edit_capitalize" href="/applicant/resumes/edit/experience?resume=a9f839d8ff01690f860039ed1f5568315a4a7a&amp;field=driverLicenseTypes&amp;hhtmFrom=resume"><span class="bloko-text bloko-text_small">редактировать</span></a></div><div class="bloko-v-spacing bloko-v-spacing_base-4"></div></div></div></div><div class="resume-block-item-gap"><div class="bloko-columns-row"><div class="bloko-column bloko-column_xs-4 bloko-column_s-8 bloko-column_m-9 bloko-column_l-12"><div class="resume-block-container"><p>Имеется собственный автомобиль</p>Права категории&nbsp;B</div></div></div></div></div><div data-qa="resume-block-skills" class="resume-block"><div class="bloko-columns-row"><div class="bloko-column bloko-column_xs-4 bloko-column_s-8 bloko-column_m-9 bloko-column_l-12"><div class="resume-block-container"><div class="resume-block__title-text-wrapper"><h2 data-qa="bloko-header-2" class="bloko-header-2 bloko-header-2_lite"><span class="resume-block__title-text resume-block__title-text_sub">Обо мне</span></h2><a data-qa="resume-block-skills-edit" class="resume-block-edit resume-block-edit_capitalize" href="/applicant/resumes/edit/experience?resume=a9f839d8ff01690f860039ed1f5568315a4a7a&amp;field=skills&amp;hhtmFrom=resume"><span class="bloko-text bloko-text_small">редактировать</span></a></div><div class="bloko-v-spacing bloko-v-spacing_base-4"></div></div></div></div><div class="resume-block-item-gap"><div class="bloko-columns-row"><div class="bloko-column bloko-column_xs-4 bloko-column_s-8 bloko-column_m-9 bloko-column_l-12"><div class="resume-block-container" data-qa="resume-block-skills-content"><span>Планирую дальше развиваться в сторону веб-разработки. Уже хорошо освоил вёрстку и JavaScript, на данный момент изучаю React.<br><br>К своим сильным сторонам могу отнести многолетние навыки работы в команде в отраслях: Организация и проведение концертов, Розничная торговля, Управление и развитие персонала, Склад.<br><br>Имею общий трудовой стаж 12 лет.<br><br>Присутствует здоровая доля перфекционизма, способность самостоятельно разбираться в новых для меня технологиях, поиск оптимальных решений задач, а также оптимизации результатов, сильный интерес к разработке интерфейсов и их логической составляющей.<br><br>Рассматриваю стажировку, проектную деятельность, работу в офисе (в городе Новороссийск), удаленную работу. Возможен гибридный формат (в любом городе) с посещением 1-2 раза в месяц. Рассматриваю переезд в город Москва.</span></div></div></div></div></div><div data-qa="resume-block-education" class="resume-block"><div class="bloko-columns-row"><div class="bloko-column bloko-column_xs-4 bloko-column_s-8 bloko-column_m-9 bloko-column_l-12"><div class="resume-block-container"><div class="resume-block__title-text-wrapper"><h2 data-qa="bloko-header-2" class="bloko-header-2 bloko-header-2_lite"><span class="resume-block__title-text resume-block__title-text_sub">Высшее образование</span></h2><a data-qa="resume-block-education-edit" class="resume-block-edit resume-block-edit_capitalize" href="/applicant/resumes/edit/education?resume=a9f839d8ff01690f860039ed1f5568315a4a7a&amp;field=primaryEducation&amp;hhtmFrom=resume"><span class="bloko-text bloko-text_small">редактировать</span></a></div><div class="bloko-v-spacing bloko-v-spacing_base-4"></div></div></div></div><div class="resume-block-item-gap"><div class="bloko-columns-row"><div class="resume-block-item-gap"><div class="bloko-columns-row"><div class="bloko-column bloko-column_xs-4 bloko-column_s-2 bloko-column_m-2 bloko-column_l-2">2011</div><div class="bloko-column bloko-column_xs-4 bloko-column_s-6 bloko-column_m-7 bloko-column_l-10"><div class="resume-block-container" data-qa="resume-block-education-item"><div data-qa="resume-block-education-name" class="bloko-text bloko-text_strong"><a class="bloko-link bloko-link_kind-tertiary" href="/search/resume?university=42377&amp;hhtmFrom=resume"><span>Филиал Академии маркетинга и социально-информационных технологий, Новороссийск</span></a></div><div data-qa="resume-block-education-organization"><span>Менеджмент организации</span><span>, </span><span>Финансовый менеджмент</span></div></div></div></div></div></div></div></div><div data-qa="resume-block-languages" class="resume-block"><div class="bloko-columns-row"><div class="bloko-column bloko-column_xs-4 bloko-column_s-8 bloko-column_m-9 bloko-column_l-12"><div class="resume-block-container"><div class="resume-block__title-text-wrapper"><h2 data-qa="bloko-header-2" class="bloko-header-2 bloko-header-2_lite"><span class="resume-block__title-text resume-block__title-text_sub">Знание языков</span></h2><a data-qa="resume-block-language-edit" class="resume-block-edit resume-block-edit_capitalize" href="/applicant/resumes/edit/education?resume=a9f839d8ff01690f860039ed1f5568315a4a7a&amp;field=language&amp;hhtmFrom=resume"><span class="bloko-text bloko-text_small">редактировать</span></a></div><div class="bloko-v-spacing bloko-v-spacing_base-4"></div></div></div></div><div class="resume-block-item-gap"><div class="bloko-columns-row"><div class="bloko-column bloko-column_xs-4 bloko-column_s-8 bloko-column_m-9 bloko-column_l-12"><div class="bloko-tag-list"><div class="bloko-tag bloko-tag_inline" data-qa="bloko-tag bloko-tag_inline"><span class="bloko-tag__section bloko-tag__section_text" data-qa="bloko-tag__text"><p data-qa="resume-block-language-item">Русский — Родной</p></span></div><br><div class="bloko-tag bloko-tag_inline" data-qa="bloko-tag bloko-tag_inline"><span class="bloko-tag__section bloko-tag__section_text" data-qa="bloko-tag__text"><p data-qa="resume-block-language-item">Английский — A2 — Элементарный</p></span></div><br></div></div></div></div></div><div data-qa="resume-block-additional-education" class="resume-block"><div class="bloko-columns-row"><div class="bloko-column bloko-column_xs-4 bloko-column_s-8 bloko-column_m-9 bloko-column_l-12"><div class="resume-block-container"><div class="resume-block__title-text-wrapper"><h2 data-qa="bloko-header-2" class="bloko-header-2 bloko-header-2_lite"><span class="resume-block__title-text resume-block__title-text_sub">Повышение квалификации, курсы</span></h2><a data-qa="resume-block-additional-education-edit" class="resume-block-edit resume-block-edit_capitalize" href="/applicant/resumes/edit/education?resume=a9f839d8ff01690f860039ed1f5568315a4a7a&amp;field=additionalEducation&amp;hhtmFrom=resume"><span class="bloko-text bloko-text_small">редактировать</span></a></div><div class="bloko-v-spacing bloko-v-spacing_base-4"></div></div></div></div><div class="resume-block-item-gap"><div class="bloko-columns-row"><div class="resume-block-item-gap"><div class="bloko-columns-row"><div class="bloko-column bloko-column_xs-4 bloko-column_s-2 bloko-column_m-2 bloko-column_l-2">2024</div><div class="bloko-column bloko-column_xs-4 bloko-column_s-6 bloko-column_m-7 bloko-column_l-10"><div class="resume-block-container" data-qa="resume-block-education-item"><div data-qa="resume-block-education-name" class="bloko-text bloko-text_strong"><span>Факультет Frontend разработки</span></div><div data-qa="resume-block-education-organization"><span>ООО «GeekBrains»</span><span>, </span><span>Frontend разработчик</span></div></div></div></div></div></div></div></div><div data-qa="resume-block-attestation-education" class="resume-block"><div class="bloko-columns-row"><div class="bloko-column bloko-column_xs-4 bloko-column_s-8 bloko-column_m-9 bloko-column_l-12"><div class="resume-block-container"><div class="resume-block__title-text-wrapper"><h2 data-qa="bloko-header-2" class="bloko-header-2 bloko-header-2_lite"><span class="resume-block__title-text resume-block__title-text_sub">Тесты, экзамены</span></h2><a data-qa="resume-block-attestation-education-edit" class="resume-block-edit resume-block-edit_capitalize" href="/applicant/resumes/edit/education?resume=a9f839d8ff01690f860039ed1f5568315a4a7a&amp;field=attestationEducation&amp;hhtmFrom=resume"><span class="bloko-text bloko-text_small">редактировать</span></a></div><div class="bloko-v-spacing bloko-v-spacing_base-4"></div></div></div></div><div class="resume-block-item-gap"><div class="bloko-columns-row"><div class="resume-block-item-gap"><div class="bloko-columns-row"><div class="bloko-column bloko-column_xs-4 bloko-column_s-2 bloko-column_m-2 bloko-column_l-2">2024</div><div class="bloko-column bloko-column_xs-4 bloko-column_s-6 bloko-column_m-7 bloko-column_l-10"><div class="resume-block-container" data-qa="resume-block-education-item"><div data-qa="resume-block-education-name" class="bloko-text bloko-text_strong"><span>Итоговая аттестация</span></div><div data-qa="resume-block-education-organization"><span>ООО "GeekBrains"</span><span>, </span><span>Frontend разработчик</span></div></div></div></div></div></div></div></div><div data-qa="resume-block-certificate" class="resume-block"><div class="bloko-columns-row"><div class="bloko-column bloko-column_xs-4 bloko-column_s-8 bloko-column_m-9 bloko-column_l-12"><div class="resume-block-container"><div class="resume-block__title-text-wrapper"><h2 data-qa="bloko-header-2" class="bloko-header-2 bloko-header-2_lite"><span class="resume-block__title-text resume-block__title-text_sub">Электронные сертификаты</span></h2><a data-qa="resume-block-certificate-edit" class="resume-block-edit resume-block-edit_capitalize" href="/applicant/resumes/edit/education?resume=a9f839d8ff01690f860039ed1f5568315a4a7a&amp;field=attestationEducation&amp;hhtmFrom=resume"><span class="bloko-text bloko-text_small">редактировать</span></a></div><div class="bloko-v-spacing bloko-v-spacing_base-4"></div></div></div></div><div class="resume-block-item-gap"><div class="bloko-columns-row"><div class="bloko-column bloko-column_xs-4 bloko-column_s-8 bloko-column_m-9 bloko-column_l-12"><div class="resume-block-container"><div class="resume-certificates"><div class="bloko-gap bloko-gap_bottom"><div class="h-resume-certificates-view"><div class="resume-certificates-view"><div class="resume-certificates-view__year-group"><div class="resume-certificates-view__year-group-title"><div class="bloko-text bloko-text_small">2024</div></div><ul class="resume-certificates-view__items"><li class="resume-certificates-view__item"><div class="bloko-text bloko-text_small"><a href="https://gb.ru/certificates/2669099" target="_blank" rel="noopener noreferrer" class="bloko-link">JavaScript про API браузеров</a></div></li><li class="resume-certificates-view__item"><div class="bloko-text bloko-text_small"><a href="https://gb.ru/certificates/2590462" target="_blank" rel="noopener noreferrer" class="bloko-link">JavaScript про ECMAScript</a></div></li><li class="resume-certificates-view__item"><div class="bloko-text bloko-text_small"><a href="https://gb.ru/certificates/2530302" target="_blank" rel="noopener noreferrer" class="bloko-link">Продвинутый HTML + CSS</a></div></li><li class="resume-certificates-view__item"><div class="bloko-text bloko-text_small"><a href="https://gb.ru/certificates/2665504" target="_blank" rel="noopener noreferrer" class="bloko-link">Продвинутый JavaScript</a></div></li><li class="resume-certificates-view__item"><div class="bloko-text bloko-text_small"><a href="https://gb.ru/certificates/2669100" target="_blank" rel="noopener noreferrer" class="bloko-link">Фреймворк Vue.js</a></div></li></ul></div></div></div><div class="g-clear"></div></div></div></div></div></div></div></div><div data-qa="resume-block-additional" class="resume-block"><div class="bloko-columns-row"><div class="bloko-column bloko-column_xs-4 bloko-column_s-8 bloko-column_m-9 bloko-column_l-12"><div class="resume-block-container"><div class="resume-block__title-text-wrapper"><h2 data-qa="bloko-header-2" class="bloko-header-2 bloko-header-2_lite"><span class="resume-block__title-text resume-block__title-text_sub">Гражданство, время в пути до работы</span></h2><a data-qa="resume-block-additional-edit" class="resume-block-edit resume-block-edit_capitalize" href="/applicant/resumes/edit/additional?resume=a9f839d8ff01690f860039ed1f5568315a4a7a&amp;hhtmFrom=resume"><span class="bloko-text bloko-text_small">редактировать</span></a></div><div class="bloko-v-spacing bloko-v-spacing_base-4"></div></div></div></div><div class="resume-block-item-gap"><div class="bloko-columns-row"><div class="bloko-column bloko-column_xs-4 bloko-column_s-8 bloko-column_m-9 bloko-column_l-12"><div class="resume-block-container"><p>Гражданство: Россия</p><p>Разрешение на работу: Россия</p><p>Желательное время в пути до работы: <span class="resume-block-travel-time">Не имеет значения</span></p></div></div></div></div></div></div></div></div><div class="bloko-columns-row"><div class="bloko-column bloko-column_container bloko-column_xs-0 bloko-column_s-0 bloko-column_m-3 bloko-column_l-4"><div class="resume-sidebar-background"></div><div class="bloko-columns-row" data-qa="resume-sidebar"><div class="resume-sidebar-section-wrapper"><div class="bloko-column bloko-column_xs-0 bloko-column_s-0 bloko-column_m-3 bloko-column_l-4"><div class="resume-sidebar-section resume-sidebar-section_first"><h3 data-qa="bloko-header-3" class="bloko-header-3">Видимость резюме</h3><div class="bloko-v-spacing bloko-v-spacing_base-4"></div>Сейчас это резюме видно всему интернету<div class="resume-sidebar-link"><a data-qa="resume-aside__visibility-link" href="/applicant/resumes/edit/visibility?resume=a9f839d8ff01690f860039ed1f5568315a4a7a&amp;hhtmFrom=resume">Изменить видимость</a></div></div><div class="resume-sidebar-section"><h3 data-qa="bloko-header-3" class="bloko-header-3">Завершенность резюме</h3><div class="bloko-v-spacing bloko-v-spacing_base-4"></div><div class="progressbar"><div class="progressbar__progress" style="width: 88%;">88%</div></div><div class="resume-sidebar-link">Еще вы можете указать:</div><ul><li class="resume-progress-item"><a class="resume-progress-item__link" href="/applicant/resumes/edit/experience?resume=a9f839d8ff01690f860039ed1f5568315a4a7a&amp;field=portfolio&amp;hhtmFrom=resume"><span class="bloko-text bloko-text_small">портфолио</span></a></li><li class="resume-progress-item"><a class="resume-progress-item__link" href="/applicant/resumes/edit/experience?resume=a9f839d8ff01690f860039ed1f5568315a4a7a&amp;field=recommendation&amp;hhtmFrom=resume"><span class="bloko-text bloko-text_small">рекомендации</span></a></li><li class="resume-progress-item"><a class="resume-progress-item__link" href="/applicant/resumes/edit/personal?resume=a9f839d8ff01690f860039ed1f5568315a4a7a&amp;field=middleName&amp;hhtmFrom=resume"><span class="bloko-text bloko-text_small">отчество</span></a></li><li class="resume-progress-item"><a class="resume-progress-item__link" href="/applicant/resumes/edit/position?resume=a9f839d8ff01690f860039ed1f5568315a4a7a&amp;field=salary&amp;hhtmFrom=resume"><span class="bloko-text bloko-text_small">зарплату</span></a></li></ul><p>Для вас есть несколько</p><a class="bloko-link bloko-link_disable-visited" href="/search/vacancy?resume=a9f839d8ff01690f860039ed1f5568315a4a7a&amp;hhtmFrom=resume">подходящих вакансий к резюме</a><div class="bloko-gap bloko-gap_top"><div class="resume-sidebar-link"><button class="bloko-button bloko-button_kind-primary bloko-button_stretched" type="button" disabled="" data-qa="resume-update-button"><span>Обновить дату </span></button></div></div><div class="resume-sidebar-text" data-qa="resume-update-message">Обновить можно через&nbsp;2&nbsp;часа. «Продвижение резюме» будет делать это за&nbsp;вас</div><div class="resume-sidebar-link"><a class="bloko-button bloko-button_scale-small bloko-button_stretched" data-qa="resumeservice-button__renewresume" href="/applicant/services/payment?from=myresume&amp;package=basic&amp;resumeHash=a9f839d8ff01690f860039ed1f5568315a4a7a&amp;hhtmFrom=resume"><span>Продвижение резюме</span></a></div></div></div></div></div></div></div></div></div>
+<div class="resume-applicant">
+  <div class="bloko-columns-row">
+    <div
+      class="bloko-column bloko-column_container bloko-column_xs-4 bloko-column_s-8 bloko-column_m-12 bloko-column_l-16"
+    >
+      <div class="bloko-columns-row">
+        <div
+          class="bloko-column bloko-column_container bloko-column_xs-4 bloko-column_s-8 bloko-column_m-12 bloko-column_l-16"
+        >
+          <div class="resume-header-wrapper">
+            <div class="resume-header">
+              <div
+                class="bloko-column bloko-column_xs-4 bloko-column_s-8 bloko-column_m-9 bloko-column_l-12"
+              >
+                <div class="bloko-gap bloko-gap_bottom">
+                  <div class="resume-header-main" id="a11y-main-content">
+                    <div class="resume-header-title">
+                      <div
+                        class="resume-header-photo-mobile"
+                        data-qa="resume-photo-mobile"
+                      >
+                      <div class="resume-header-name">
+                        <h2
+                          data-qa="resume-personal-name"
+                          class="bloko-header-1"
+                        >
+                          <span>Василакий Вячеслав</span>
+                        </h2>
+                        <div
+                          class="bloko-v-spacing bloko-v-spacing_base-4"
+                        ></div>
+                      </div>
+                      <p>
+                        <span data-qa="resume-personal-gender">Мужчина</span>
+                        ,
+                        <span data-qa="resume-personal-age">
+                          <span>36&nbsp;лет</span>
+                        </span>
+                        , родился&nbsp;
+                        <span data-qa="resume-personal-birthday">
+                          <span>16&nbsp;мая&nbsp;1988</span>
+                        </span>
+                      </p>
+                      <p>
+                      </p>
+                      <div
+                        class="magritte-v-spacing___R3QYf_2-0-22"
+                        style="
+                          --magritte-spacing-xs: 4px;
+                          --magritte-spacing-s: 4px;
+                          --magritte-spacing-m: 4px;
+                          --magritte-spacing-l: 4px;
+                          --magritte-spacing-xl: 4px;
+                          --magritte-spacing-xxl: 4px;
+                        "
+                      ></div>
+                      <div class="resume-job-search-status">
+                        <div
+                          class="bloko-v-spacing bloko-v-spacing_base-4"
+                        ></div>
+                        <span
+                          class="label--rWRLMsbliNlu_OMkM_D3 label_light-green--oMhc5Pq9VsjySzrrLOTh"
+                          data-qa="job-search-status"
+                        >
+                          Активно ищу работу
+                        </span>
+                        <div
+                          class="bloko-v-spacing bloko-v-spacing_base-4"
+                        ></div>
+                      </div>
+                      <div class="bloko-translate-guard">
+                        <p>
+                          <span data-qa="resume-personal-address">
+                            Новороссийск
+                          </span>
+                          , готов к переезду (Москва), готов к командировкам
+                        </p>
+                      </div>
+                      <div class="resume-header-field">
+                        <div data-qa="resume-block-contacts">
+                          <div class="bloko-text bloko-text_tertiary">
+                            Контакты
+                          </div>
+                          <div
+                            class="bloko-v-spacing bloko-v-spacing_base-1"
+                          ></div>
+                          <div data-qa="resume-serp_resume-item-content">
+                            <div data-qa="resume-contacts-phone">
+                              <svg
+                                width="16"
+                                height="16"
+                                viewBox="0 0 16 16"
+                                fill="none"
+                                xmlns="http://www.w3.org/2000/svg"
+                                data-qa="mark-valid-icon"
+                                class="bloko-icon bloko-icon_initial-green-60"
+                              >
+                                <path
+                                  d="M13.3333 4L6.66659 10.6667L3.33325 7.33333"
+                                  stroke="var(--bloko-icon-color, var(--bloko-icon-color-default))"
+                                  stroke-width="1.33333"
+                                  stroke-linecap="round"
+                                  stroke-linejoin="round"
+                                ></path>
+                              </svg>
+                              &nbsp;
+                              <a
+                                data-qa="resume-contact-preferred"
+                                href="tel:+79186511211"
+                                class="bloko-link bloko-link_kind-tertiary"
+                              >
+                                +7 (918) 651-12-11
+                              </a>
+                              <div class="bloko-translate-guard">
+                                <div class="bloko-translate-guard">
+                                  &nbsp;— предпочитаемый способ связи
+                                </div>
+                              </div>
+                              <div
+                                class="resume-search-item-phone-verification-status"
+                              >
+                                <div class="bloko-text bloko-text_small">
+                                  Телефон подтвержден
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                          <div data-qa="resume-contact-email">
+                            <a href="mailto:slk55@mail.ru">
+                              <span>slk55@mail.ru</span>
+                            </a>
+                          </div>
+                          <div data-qa="resume-personalsite-personal">
+                            <a
+                              href="https://t.me/SlavaVasilakii"
+                              target="_blank"
+                              rel="noopener noreferrer"
+                              class="bloko-link"
+                            >
+                              https://t.me/SlavaVasilakii
+                            </a>
+                          </div>
+                          <div
+                            class="bloko-v-spacing bloko-v-spacing_base-1"
+                          ></div>
+                          <div
+                            class="pinned-messages--MJfysYeiLelPoh756r2j"
+                          ></div>
+                        </div>
+                      </div>
+                    </div>
+                    <div
+                      class="resume-header-photo-desktop"
+                      data-qa="resume-photo-desktop"
+                    >
+                      <div class="resume-media">
+                        <div data-qa="resume-photo">
+                          <img
+                            src="https://img.hhcdn.ru/photo/714647063.jpeg?t=1720290614&amp;h=ZRnnbnaCSZ5dAIbdnyNiQw"
+                            loading="lazy"
+                            alt=""
+                            class="resume-media__image"
+                            data-qa="resume-photo-image"
+                          />
+                        </div>
+                        <div
+                          class="bloko-v-spacing bloko-v-spacing_base-2"
+                        ></div>
+                      </div>
+                    </div>
+                  </div>
+                  <div>
+                    <div class="bloko-v-spacing bloko-v-spacing_base-2"></div>
+                  </div>
+                  <div class="resume-map resume-map_hide"></div>
+                </div>
+              </div>
+              <div class="resume-header-additional">
+                <div
+                  class="bloko-column bloko-column_xs-4 bloko-column_s-8 bloko-column_m-3 bloko-column_l-4"
+                >
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="resume-header-divider"></div>
+    </div>
+  </div>
+  <div class="bloko-columns-row"><div class="noprint"></div></div>
+  <div class="resume-wrapper">
+    <div class="bloko-columns-row">
+      <div
+        class="bloko-column bloko-column_container bloko-column_xs-4 bloko-column_s-8 bloko-column_m-9 bloko-column_l-12"
+      >
+        <div class="bloko-gap bloko-gap_top">
+          <div data-qa="resume-block-position" class="resume-block">
+            <div class="bloko-columns-row">
+              <div
+                class="bloko-column bloko-column_xs-4 bloko-column_s-8 bloko-column_m-9 bloko-column_l-12"
+              >
+                <div class="resume-block-position">
+                  <div class="resume-block__title-text-wrapper">
+                    <h2 data-qa="bloko-header-2" class="bloko-header-2">
+                      <span
+                        class="resume-block__title-text"
+                        data-qa="resume-block-title-position"
+                      >
+                        <span>Frontend-разработчик</span>
+                      </span>
+                    </h2>
+                  </div>
+                </div>
+                <div class="bloko-v-spacing bloko-v-spacing_base-4"></div>
+              </div>
+            </div>
+            <div class="resume-block-item-gap">
+              <div class="bloko-columns-row">
+                <div
+                  class="bloko-column bloko-column_xs-4 bloko-column_s-8 bloko-column_m-9 bloko-column_l-12"
+                >
+                  <div class="resume-block-container">
+                    <div class="bloko-gap bloko-gap_bottom">
+                      <span data-qa="resume-block-specialization-category">
+                        Специализации:
+                      </span>
+                      <ul>
+                        <li
+                          class="resume-block__specialization"
+                          data-qa="resume-block-position-specialization"
+                        >
+                          Программист, разработчик
+                        </li>
+                      </ul>
+                    </div>
+                    <p>
+                      Занятость: полная занятость, частичная занятость,
+                      проектная работа, стажировка
+                    </p>
+                    <p>
+                      График работы: полный день, сменный график, гибкий график,
+                      удаленная работа
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div data-qa="resume-block-experience" class="resume-block">
+            <div class="bloko-columns-row">
+              <div
+                class="bloko-column bloko-column_xs-4 bloko-column_s-8 bloko-column_m-9 bloko-column_l-12"
+              >
+                <div class="resume-block__title-text-wrapper">
+                  <h2
+                    data-qa="bloko-header-2"
+                    class="bloko-header-2 bloko-header-2_lite"
+                  >
+                    <span
+                      class="resume-block__title-text resume-block__title-text_sub"
+                    >
+                      Опыт работы
+                      <span>1&nbsp;год</span>
+                      <span>7&nbsp;месяцев</span>
+                    </span>
+                  </h2>
+                </div>
+                <div class="bloko-v-spacing bloko-v-spacing_base-4"></div>
+              </div>
+            </div>
+            <div class="resume-block-item-gap">
+              <div class="bloko-columns-row">
+                <div class="resume-block-item-gap">
+                  <div class="bloko-columns-row">
+                    <div
+                      class="bloko-column bloko-column_xs-4 bloko-column_s-2 bloko-column_m-2 bloko-column_l-2"
+                    >
+                      Июль&nbsp;2022 —
+                      <span class="resume-block__experience-mount-last">
+                        Январь
+                      </span>
+                      &nbsp;2024
+                      <div class="bloko-text bloko-text_tertiary">
+                        <span>1&nbsp;год</span>
+                        <span>7&nbsp;месяцев</span>
+                      </div>
+                    </div>
+                    <div
+                      class="bloko-column bloko-column_xs-4 bloko-column_s-6 bloko-column_m-7 bloko-column_l-10"
+                    >
+                      <div class="resume-block-container">
+                        <div class="bloko-text bloko-text_strong">
+                          <span>Практика по Frontend-разработке</span>
+                        </div>
+                        <p>Москва</p>
+                        <div
+                          class="resume-block__experience-industries resume-block_no-print"
+                        >
+                          <p>
+                            <span>
+                              Информационные технологии, системная интеграция,
+                              интернет
+                            </span>
+                            <span class="resume-industries__open">
+                              <span
+                                class="bloko-text bloko-text_small bloko-text_secondary"
+                              >
+                                ... Показать еще
+                              </span>
+                            </span>
+                          </p>
+                        </div>
+                        <div
+                          data-qa="resume-block-experience-position"
+                          class="bloko-text bloko-text_strong"
+                        >
+                          <span>Frontend-разработчик</span>
+                        </div>
+                        <div data-qa="resume-block-experience-description">
+                          <span>
+                            Изучил HTML, CSS, Java Script... Создал
+                            интерактивную веб-страницу для оставления и
+                            просмотра отзывов о продуктах с использованием Local
+                            Storage:
+                            <br />
+                          </span>
+                          <a
+                            href="https://github.com/SlavaVasilakiy/advanced-javascript/tree/main/homework_3"
+                            rel="noopener noreferrer"
+                            target="_blank"
+                          >
+                            https://github.com/SlavaVasilakiy/advanced-javascript/tree/main/homework_3
+                          </a>
+                          <span>
+                            <br />
+                            <br />
+                            Изучил работу с api, разработав веб-приложение,
+                            которое будет отображать новое случайное изображение
+                            из коллекции Unsplash, давая пользователю
+                            возможность узнать больше о фотографе и сделать
+                            "лайк" изображению:
+                            <br />
+                          </span>
+                          <a
+                            href="https://github.com/SlavaVasilakiy/JavaScript-about-browser-APIs/tree/main/Homework_3"
+                            rel="noopener noreferrer"
+                            target="_blank"
+                          >
+                            https://github.com/SlavaVasilakiy/JavaScript-about-browser-APIs/tree/main/Homework_3
+                          </a>
+                          <span>
+                            <br />
+                            <br />
+                            Изучил Vue.js v2, и написал итоговую работу -
+                            веб-приложение сайта с проектами интерьера,
+                            используя vue.js, vuex, store:
+                            <br />
+                          </span>
+                          <a
+                            href="https://github.com/SlavaVasilakiy/GB-final-work"
+                            rel="noopener noreferrer"
+                            target="_blank"
+                          >
+                            https://github.com/SlavaVasilakiy/GB-final-work
+                          </a>
+                          <span>
+                            <br />
+                            <br />
+                            Самостоятельно изучил TypeScript, в рамках учебного
+                            проекта реализовал миграцию кода:
+                            <br />
+                          </span>
+                          <a
+                            href="https://github.com/SlavaVasilakiy/todo-TS-migration"
+                            rel="noopener noreferrer"
+                            target="_blank"
+                          >
+                            https://github.com/SlavaVasilakiy/todo-TS-migration
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div id="key-skills"></div>
+          <div data-qa="skills-table" class="resume-block">
+            <div class="bloko-columns-row">
+              <div
+                class="bloko-column bloko-column_xs-4 bloko-column_s-8 bloko-column_m-9 bloko-column_l-12"
+              >
+                <div class="resume-block-container">
+                  <div class="resume-block__title-text-wrapper">
+                    <h2
+                      data-qa="bloko-header-2"
+                      class="bloko-header-2 bloko-header-2_lite"
+                    >
+                      <span
+                        class="resume-block__title-text resume-block__title-text_sub"
+                      >
+                        Ключевые навыки
+                      </span>
+                    </h2>
+                  </div>
+                  <div class="bloko-v-spacing bloko-v-spacing_base-4"></div>
+                </div>
+              </div>
+            </div>
+            <div class="resume-block-item-gap">
+              <div class="bloko-columns-row">
+                <div
+                  class="bloko-column bloko-column_xs-4 bloko-column_s-8 bloko-column_m-9 bloko-column_l-12"
+                >
+                  <div class="resume-block-container">
+                    <div class="info-block">
+                      <div>
+                        <div data-qa="bloko-drop-info-inline">
+                          <div class="bloko-info-inline">
+                            <div class="bloko-info-inline__content">
+                              <div>
+                                <p>
+                                  Изменить уровни владения навыками можно
+                                  в&nbsp;мобильном приложении&nbsp;—
+                                  на&nbsp;сайте эта возможность будет чуть позже
+                                </p>
+                              </div>
+                              <div class="bloko-info-inline__close">
+                                <span class="bloko-icon-dynamic">
+                                  <button type="button" class="bloko-icon-link">
+                                    <svg
+                                      width="16"
+                                      height="16"
+                                      viewBox="0 0 16 16"
+                                      fill="none"
+                                      xmlns="http://www.w3.org/2000/svg"
+                                      class="bloko-icon bloko-icon_initial-gray-50 bloko-icon_highlighted-gray-60"
+                                    >
+                                      <path
+                                        d="M12 4L4 12M4 4L12 12"
+                                        stroke="var(--bloko-icon-color, var(--bloko-icon-color-default))"
+                                        stroke-width="1.33333"
+                                        stroke-linecap="round"
+                                        stroke-linejoin="round"
+                                      ></path>
+                                    </svg>
+                                  </button>
+                                </span>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="bloko-tag-list">
+                      <div
+                        class="bloko-tag bloko-tag_inline"
+                        data-qa="bloko-tag bloko-tag_inline"
+                      >
+                        <div
+                          class="bloko-tag__section bloko-tag__section_icon"
+                          data-qa="bloko-tag__icon"
+                        >
+                          <span>
+                            <span
+                              data-qa="rank-2"
+                              class="skills-verification-methods-rank-icon skills-verification-methods-rank-2-icon skills-verification-methods-rank-2-black-icon"
+                            ></span>
+                          </span>
+                        </div>
+                        <span
+                          class="bloko-tag__section bloko-tag__section_text"
+                          data-qa="bloko-tag__text"
+                        >
+                          <span>Английский язык</span>
+                        </span>
+                      </div>
+                      <div
+                        class="bloko-tag bloko-tag_inline"
+                        data-qa="bloko-tag bloko-tag_inline"
+                      >
+                        <div
+                          class="bloko-tag__section bloko-tag__section_icon"
+                          data-qa="bloko-tag__icon"
+                        >
+                          <span>
+                            <span
+                              data-qa="rank-3"
+                              class="skills-verification-methods-rank-icon skills-verification-methods-rank-3-icon skills-verification-methods-rank-3-black-icon"
+                            ></span>
+                          </span>
+                        </div>
+                        <span
+                          class="bloko-tag__section bloko-tag__section_text"
+                          data-qa="bloko-tag__text"
+                        >
+                          <span>Git</span>
+                        </span>
+                      </div>
+                      <div
+                        class="bloko-tag bloko-tag_inline"
+                        data-qa="bloko-tag bloko-tag_inline"
+                      >
+                        <div
+                          class="bloko-tag__section bloko-tag__section_icon"
+                          data-qa="bloko-tag__icon"
+                        >
+                          <span>
+                            <span
+                              data-qa="rank-3"
+                              class="skills-verification-methods-rank-icon skills-verification-methods-rank-3-icon skills-verification-methods-rank-3-black-icon"
+                            ></span>
+                          </span>
+                        </div>
+                        <span
+                          class="bloko-tag__section bloko-tag__section_text"
+                          data-qa="bloko-tag__text"
+                        >
+                          <span>JavaScript</span>
+                        </span>
+                      </div>
+                      <div
+                        class="bloko-tag bloko-tag_inline"
+                        data-qa="bloko-tag bloko-tag_inline"
+                      >
+                        <div
+                          class="bloko-tag__section bloko-tag__section_icon"
+                          data-qa="bloko-tag__icon"
+                        >
+                          <span>
+                            <span
+                              data-qa="rank-2"
+                              class="skills-verification-methods-rank-icon skills-verification-methods-rank-2-icon skills-verification-methods-rank-2-black-icon"
+                            ></span>
+                          </span>
+                        </div>
+                        <span
+                          class="bloko-tag__section bloko-tag__section_text"
+                          data-qa="bloko-tag__text"
+                        >
+                          <span>Vue.js</span>
+                        </span>
+                      </div>
+                      <div
+                        class="bloko-tag bloko-tag_inline"
+                        data-qa="bloko-tag bloko-tag_inline"
+                      >
+                        <div
+                          class="bloko-tag__section bloko-tag__section_icon"
+                          data-qa="bloko-tag__icon"
+                        >
+                          <span>
+                            <span
+                              data-qa="rank-2"
+                              class="skills-verification-methods-rank-icon skills-verification-methods-rank-2-icon skills-verification-methods-rank-2-black-icon"
+                            ></span>
+                          </span>
+                        </div>
+                        <span
+                          class="bloko-tag__section bloko-tag__section_text"
+                          data-qa="bloko-tag__text"
+                        >
+                          <span>ООП</span>
+                        </span>
+                      </div>
+                      <div
+                        class="bloko-tag bloko-tag_inline"
+                        data-qa="bloko-tag bloko-tag_inline"
+                      >
+                        <div
+                          class="bloko-tag__section bloko-tag__section_icon"
+                          data-qa="bloko-tag__icon"
+                        >
+                          <span>
+                            <span
+                              data-qa="rank-2"
+                              class="skills-verification-methods-rank-icon skills-verification-methods-rank-2-icon skills-verification-methods-rank-2-black-icon"
+                            ></span>
+                          </span>
+                        </div>
+                        <span
+                          class="bloko-tag__section bloko-tag__section_text"
+                          data-qa="bloko-tag__text"
+                        >
+                          <span>GitHub</span>
+                        </span>
+                      </div>
+                      <div
+                        class="bloko-tag bloko-tag_inline"
+                        data-qa="bloko-tag bloko-tag_inline"
+                      >
+                        <div
+                          class="bloko-tag__section bloko-tag__section_icon"
+                          data-qa="bloko-tag__icon"
+                        >
+                          <span>
+                            <span
+                              data-qa="rank-2"
+                              class="skills-verification-methods-rank-icon skills-verification-methods-rank-2-icon skills-verification-methods-rank-2-black-icon"
+                            ></span>
+                          </span>
+                        </div>
+                        <span
+                          class="bloko-tag__section bloko-tag__section_text"
+                          data-qa="bloko-tag__text"
+                        >
+                          <span>REST API</span>
+                        </span>
+                      </div>
+                      <div
+                        class="bloko-tag bloko-tag_inline"
+                        data-qa="bloko-tag bloko-tag_inline"
+                      >
+                        <div
+                          class="bloko-tag__section bloko-tag__section_icon"
+                          data-qa="bloko-tag__icon"
+                        >
+                          <span>
+                            <span
+                              data-qa="rank-1"
+                              class="skills-verification-methods-rank-icon skills-verification-methods-rank-1-icon skills-verification-methods-rank-1-black-icon"
+                            ></span>
+                          </span>
+                        </div>
+                        <span
+                          class="bloko-tag__section bloko-tag__section_text"
+                          data-qa="bloko-tag__text"
+                        >
+                          <span>Figma</span>
+                        </span>
+                      </div>
+                      <div
+                        class="bloko-tag bloko-tag_inline"
+                        data-qa="bloko-tag bloko-tag_inline"
+                      >
+                        <div
+                          class="bloko-tag__section bloko-tag__section_icon"
+                          data-qa="bloko-tag__icon"
+                        >
+                          <span>
+                            <span
+                              data-qa="rank-3"
+                              class="skills-verification-methods-rank-icon skills-verification-methods-rank-3-icon skills-verification-methods-rank-3-black-icon"
+                            ></span>
+                          </span>
+                        </div>
+                        <span
+                          class="bloko-tag__section bloko-tag__section_text"
+                          data-qa="bloko-tag__text"
+                        >
+                          <span>БЭМ</span>
+                        </span>
+                      </div>
+                      <div
+                        class="bloko-tag bloko-tag_inline"
+                        data-qa="bloko-tag bloko-tag_inline"
+                      >
+                        <div
+                          class="bloko-tag__section bloko-tag__section_icon"
+                          data-qa="bloko-tag__icon"
+                        >
+                          <span>
+                            <span
+                              data-qa="rank-3"
+                              class="skills-verification-methods-rank-icon skills-verification-methods-rank-3-icon skills-verification-methods-rank-3-black-icon"
+                            ></span>
+                          </span>
+                        </div>
+                        <span
+                          class="bloko-tag__section bloko-tag__section_text"
+                          data-qa="bloko-tag__text"
+                        >
+                          <span>TypeScript</span>
+                        </span>
+                      </div>
+                      <div
+                        class="bloko-tag bloko-tag_inline"
+                        data-qa="bloko-tag bloko-tag_inline"
+                      >
+                        <div
+                          class="bloko-tag__section bloko-tag__section_icon"
+                          data-qa="bloko-tag__icon"
+                        >
+                          <span>
+                            <span
+                              data-qa="rank-2"
+                              class="skills-verification-methods-rank-icon skills-verification-methods-rank-2-icon skills-verification-methods-rank-2-black-icon"
+                            ></span>
+                          </span>
+                        </div>
+                        <span
+                          class="bloko-tag__section bloko-tag__section_text"
+                          data-qa="bloko-tag__text"
+                        >
+                          <span>Webpack</span>
+                        </span>
+                      </div>
+                      <div
+                        class="bloko-tag bloko-tag_inline"
+                        data-qa="bloko-tag bloko-tag_inline"
+                      >
+                        <div
+                          class="bloko-tag__section bloko-tag__section_icon"
+                          data-qa="bloko-tag__icon"
+                        >
+                          <span>
+                            <span
+                              data-qa="rank-2"
+                              class="skills-verification-methods-rank-icon skills-verification-methods-rank-2-icon skills-verification-methods-rank-2-black-icon"
+                            ></span>
+                          </span>
+                        </div>
+                        <span
+                          class="bloko-tag__section bloko-tag__section_text"
+                          data-qa="bloko-tag__text"
+                        >
+                          <span>npm</span>
+                        </span>
+                      </div>
+                      <div
+                        class="bloko-tag bloko-tag_inline"
+                        data-qa="bloko-tag bloko-tag_inline"
+                      >
+                        <div
+                          class="bloko-tag__section bloko-tag__section_icon"
+                          data-qa="bloko-tag__icon"
+                        >
+                          <span>
+                            <span
+                              data-qa="rank-3"
+                              class="skills-verification-methods-rank-icon skills-verification-methods-rank-3-icon skills-verification-methods-rank-3-black-icon"
+                            ></span>
+                          </span>
+                        </div>
+                        <span
+                          class="bloko-tag__section bloko-tag__section_text"
+                          data-qa="bloko-tag__text"
+                        >
+                          <span>HTML5</span>
+                        </span>
+                      </div>
+                      <div
+                        class="bloko-tag bloko-tag_inline"
+                        data-qa="bloko-tag bloko-tag_inline"
+                      >
+                        <div
+                          class="bloko-tag__section bloko-tag__section_icon"
+                          data-qa="bloko-tag__icon"
+                        >
+                          <span>
+                            <span
+                              data-qa="rank-3"
+                              class="skills-verification-methods-rank-icon skills-verification-methods-rank-3-icon skills-verification-methods-rank-3-black-icon"
+                            ></span>
+                          </span>
+                        </div>
+                        <span
+                          class="bloko-tag__section bloko-tag__section_text"
+                          data-qa="bloko-tag__text"
+                        >
+                          <span>CSS3</span>
+                        </span>
+                      </div>
+                      <div
+                        class="bloko-tag bloko-tag_inline"
+                        data-qa="bloko-tag bloko-tag_inline"
+                      >
+                        <div
+                          class="bloko-tag__section bloko-tag__section_icon"
+                          data-qa="bloko-tag__icon"
+                        >
+                          <span>
+                            <span
+                              data-qa="rank-2"
+                              class="skills-verification-methods-rank-icon skills-verification-methods-rank-2-icon skills-verification-methods-rank-2-black-icon"
+                            ></span>
+                          </span>
+                        </div>
+                        <span
+                          class="bloko-tag__section bloko-tag__section_text"
+                          data-qa="bloko-tag__text"
+                        >
+                          <span>SOLID</span>
+                        </span>
+                      </div>
+                      <div
+                        class="bloko-tag bloko-tag_inline"
+                        data-qa="bloko-tag bloko-tag_inline"
+                      >
+                        <div
+                          class="bloko-tag__section bloko-tag__section_icon"
+                          data-qa="bloko-tag__icon"
+                        >
+                          <span>
+                            <span
+                              data-qa="rank-3"
+                              class="skills-verification-methods-rank-icon skills-verification-methods-rank-3-icon skills-verification-methods-rank-3-black-icon"
+                            ></span>
+                          </span>
+                        </div>
+                        <span
+                          class="bloko-tag__section bloko-tag__section_text"
+                          data-qa="bloko-tag__text"
+                        >
+                          <span>Адаптивная верстка</span>
+                        </span>
+                      </div>
+                    </div>
+                    <div class="noprint">
+                      <div class="bloko-v-spacing bloko-v-spacing_base-6"></div>
+                      <div>
+                        <div class="applicant-resumes-card info-block noprint">
+                          <h3
+                            data-qa="bloko-header-3"
+                            class="bloko-header-section-3"
+                          >
+                            <span>Навыки, которые можно подтвердить</span>
+                          </h3>
+                          <div
+                            class="bloko-v-spacing bloko-v-spacing_base-1"
+                          ></div>
+                          <div class="bloko-text bloko-text_secondary">
+                            Проходите тесты и&nbsp;получайте подтверждённые
+                            уровни владения навыками в&nbsp;резюме&nbsp;— это
+                            выделит вас среди других кандидатов
+                          </div>
+                          <div
+                            class="bloko-v-spacing bloko-v-spacing_base-4"
+                          ></div>
+                          <div
+                            class="bloko-v-spacing bloko-v-spacing_base-3"
+                          ></div>
+                          <div>
+                            <div class="bloko-text bloko-text_strong">
+                              Ключевые навыки
+                            </div>
+                            <div
+                              class="bloko-v-spacing bloko-v-spacing_base-2"
+                            ></div>
+                            <div class="resume-key-skills-verification-methods">
+                              <div
+                                data-qa="77"
+                                class="resume-key-skills-verification-flex"
+                              >
+                                <button
+                                  class="bloko-button bloko-button_stretched"
+                                  type="button"
+                                >
+                                  <span>ООП</span>
+                                </button>
+                                <div
+                                  class="bloko-v-spacing bloko-v-spacing_base-2"
+                                ></div>
+                                <div
+                                  class="bloko-h-spacing bloko-h-spacing_base-2"
+                                ></div>
+                              </div>
+                              <div
+                                data-qa="131"
+                                class="resume-key-skills-verification-flex"
+                              >
+                                <button
+                                  class="bloko-button bloko-button_stretched"
+                                  type="button"
+                                >
+                                  <span>Git</span>
+                                </button>
+                                <div
+                                  class="bloko-v-spacing bloko-v-spacing_base-2"
+                                ></div>
+                                <div
+                                  class="bloko-h-spacing bloko-h-spacing_base-2"
+                                ></div>
+                              </div>
+                              <div
+                                data-qa="140"
+                                class="resume-key-skills-verification-flex"
+                              >
+                                <button
+                                  class="bloko-button bloko-button_stretched"
+                                  type="button"
+                                >
+                                  <span>JavaScript</span>
+                                </button>
+                                <div
+                                  class="bloko-v-spacing bloko-v-spacing_base-2"
+                                ></div>
+                                <div
+                                  class="bloko-h-spacing bloko-h-spacing_base-2"
+                                ></div>
+                              </div>
+                            </div>
+                          </div>
+                          <div>
+                            <div
+                              class="bloko-v-spacing bloko-v-spacing_base-3"
+                            ></div>
+                            <div class="bloko-text bloko-text_strong">
+                              Знание языка
+                            </div>
+                            <div
+                              class="bloko-v-spacing bloko-v-spacing_base-2"
+                            ></div>
+                            <div class="resume-key-skills-verification-methods">
+                              <div
+                                data-qa="133"
+                                class="resume-key-skills-verification-flex"
+                              >
+                                <button
+                                  class="bloko-button bloko-button_stretched"
+                                  type="button"
+                                >
+                                  <span>Английский A2 — Элементарный</span>
+                                </button>
+                                <div
+                                  class="bloko-v-spacing bloko-v-spacing_base-2"
+                                ></div>
+                                <div
+                                  class="bloko-h-spacing bloko-h-spacing_base-2"
+                                ></div>
+                              </div>
+                            </div>
+                          </div>
+                          <div
+                            class="bloko-v-spacing bloko-v-spacing_base-5"
+                          ></div>
+                          <div
+                            class="resume-key-skills-verification-button-container"
+                          >
+                            <a
+                              class="bloko-link"
+                              href="/applicant/skill_verifications/methods?resumeUrl=%2Fresume%2Fa9f839d8ff01690f860039ed1f5568315a4a7a&amp;resumeTitle=Frontend-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA&amp;hhtmFrom=resume"
+                            >
+                              <button
+                                class="bloko-button bloko-button_kind-primary bloko-button_scale-small bloko-button_stretched"
+                                type="button"
+                              >
+                                <span>Перейти к&nbsp;тестам</span>
+                              </button>
+                            </a>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="bloko-v-spacing bloko-v-spacing_base-6"></div>
+                    <div>
+                      <div class="links--LbLH5v1Z0idxNOmJbaqg">
+                        <div>
+                          <h3
+                            data-qa="bloko-header-3"
+                            class="bloko-header-section-3"
+                          >
+                            Чему можно научиться, пока вы&nbsp;в&nbsp;поиске
+                          </h3>
+                          <div
+                            class="bloko-v-spacing bloko-v-spacing_base-2"
+                          ></div>
+                          <div class="bloko-text">
+                            Посмотрите курсы по&nbsp;навыкам и&nbsp;профессиям
+                            на&nbsp;карьерной платформе от&nbsp;hh.ru
+                          </div>
+                        </div>
+                        <a
+                          class="bloko-button bloko-button_kind-success"
+                          target="_blank"
+                          href="https://career.hh.ru/profession/40?section=courses#skills"
+                        >
+                          <span>Посмотреть курсы</span>
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div data-qa="resume-block-driver-experience" class="resume-block">
+            <div class="bloko-columns-row">
+              <div
+                class="bloko-column bloko-column_xs-4 bloko-column_s-8 bloko-column_m-9 bloko-column_l-12"
+              >
+                <div class="resume-block-container">
+                  <div class="resume-block__title-text-wrapper">
+                    <h2
+                      data-qa="bloko-header-2"
+                      class="bloko-header-2 bloko-header-2_lite"
+                    >
+                      <span
+                        class="resume-block__title-text resume-block__title-text_sub"
+                      >
+                        Опыт вождения
+                      </span>
+                    </h2>
+                  </div>
+                  <div class="bloko-v-spacing bloko-v-spacing_base-4"></div>
+                </div>
+              </div>
+            </div>
+            <div class="resume-block-item-gap">
+              <div class="bloko-columns-row">
+                <div
+                  class="bloko-column bloko-column_xs-4 bloko-column_s-8 bloko-column_m-9 bloko-column_l-12"
+                >
+                  <div class="resume-block-container">
+                    <p>Имеется собственный автомобиль</p>
+                    Права категории&nbsp;B
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div data-qa="resume-block-skills" class="resume-block">
+            <div class="bloko-columns-row">
+              <div
+                class="bloko-column bloko-column_xs-4 bloko-column_s-8 bloko-column_m-9 bloko-column_l-12"
+              >
+                <div class="resume-block-container">
+                  <div class="resume-block__title-text-wrapper">
+                    <h2
+                      data-qa="bloko-header-2"
+                      class="bloko-header-2 bloko-header-2_lite"
+                    >
+                      <span
+                        class="resume-block__title-text resume-block__title-text_sub"
+                      >
+                        Обо мне
+                      </span>
+                    </h2>
+                  </div>
+                  <div class="bloko-v-spacing bloko-v-spacing_base-4"></div>
+                </div>
+              </div>
+            </div>
+            <div class="resume-block-item-gap">
+              <div class="bloko-columns-row">
+                <div
+                  class="bloko-column bloko-column_xs-4 bloko-column_s-8 bloko-column_m-9 bloko-column_l-12"
+                >
+                  <div
+                    class="resume-block-container"
+                    data-qa="resume-block-skills-content"
+                  >
+                    <span>
+                      Планирую дальше развиваться в сторону веб-разработки. Уже
+                      хорошо освоил вёрстку и JavaScript, на данный момент
+                      изучаю React.
+                      <br />
+                      <br />
+                      К своим сильным сторонам могу отнести многолетние навыки
+                      работы в команде в отраслях: Организация и проведение
+                      концертов, Розничная торговля, Управление и развитие
+                      персонала, Склад.
+                      <br />
+                      <br />
+                      Имею общий трудовой стаж 12 лет.
+                      <br />
+                      <br />
+                      Присутствует здоровая доля перфекционизма, способность
+                      самостоятельно разбираться в новых для меня технологиях,
+                      поиск оптимальных решений задач, а также оптимизации
+                      результатов, сильный интерес к разработке интерфейсов и их
+                      логической составляющей.
+                      <br />
+                      <br />
+                      Рассматриваю стажировку, проектную деятельность, работу в
+                      офисе (в городе Новороссийск), удаленную работу. Возможен
+                      гибридный формат (в любом городе) с посещением 1-2 раза в
+                      месяц. Рассматриваю переезд в город Москва.
+                    </span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div data-qa="resume-block-education" class="resume-block">
+            <div class="bloko-columns-row">
+              <div
+                class="bloko-column bloko-column_xs-4 bloko-column_s-8 bloko-column_m-9 bloko-column_l-12"
+              >
+                <div class="resume-block-container">
+                  <div class="resume-block__title-text-wrapper">
+                    <h2
+                      data-qa="bloko-header-2"
+                      class="bloko-header-2 bloko-header-2_lite"
+                    >
+                      <span
+                        class="resume-block__title-text resume-block__title-text_sub"
+                      >
+                        Высшее образование
+                      </span>
+                    </h2>
+                  </div>
+                  <div class="bloko-v-spacing bloko-v-spacing_base-4"></div>
+                </div>
+              </div>
+            </div>
+            <div class="resume-block-item-gap">
+              <div class="bloko-columns-row">
+                <div class="resume-block-item-gap">
+                  <div class="bloko-columns-row">
+                    <div
+                      class="bloko-column bloko-column_xs-4 bloko-column_s-2 bloko-column_m-2 bloko-column_l-2"
+                    >
+                      2011
+                    </div>
+                    <div
+                      class="bloko-column bloko-column_xs-4 bloko-column_s-6 bloko-column_m-7 bloko-column_l-10"
+                    >
+                      <div
+                        class="resume-block-container"
+                        data-qa="resume-block-education-item"
+                      >
+                        <div
+                          data-qa="resume-block-education-name"
+                          class="bloko-text bloko-text_strong"
+                        >
+                          <a
+                            class="bloko-link bloko-link_kind-tertiary"
+                            href="/search/resume?university=42377&amp;hhtmFrom=resume"
+                          >
+                            <span>
+                              Филиал Академии маркетинга и
+                              социально-информационных технологий, Новороссийск
+                            </span>
+                          </a>
+                        </div>
+                        <div data-qa="resume-block-education-organization">
+                          <span>Менеджмент организации</span>
+                          <span>,</span>
+                          <span>Финансовый менеджмент</span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div data-qa="resume-block-languages" class="resume-block">
+            <div class="bloko-columns-row">
+              <div
+                class="bloko-column bloko-column_xs-4 bloko-column_s-8 bloko-column_m-9 bloko-column_l-12"
+              >
+                <div class="resume-block-container">
+                  <div class="resume-block__title-text-wrapper">
+                    <h2
+                      data-qa="bloko-header-2"
+                      class="bloko-header-2 bloko-header-2_lite"
+                    >
+                      <span
+                        class="resume-block__title-text resume-block__title-text_sub"
+                      >
+                        Знание языков
+                      </span>
+                    </h2>
+                  </div>
+                  <div class="bloko-v-spacing bloko-v-spacing_base-4"></div>
+                </div>
+              </div>
+            </div>
+            <div class="resume-block-item-gap">
+              <div class="bloko-columns-row">
+                <div
+                  class="bloko-column bloko-column_xs-4 bloko-column_s-8 bloko-column_m-9 bloko-column_l-12"
+                >
+                  <div class="bloko-tag-list">
+                    <div
+                      class="bloko-tag bloko-tag_inline"
+                      data-qa="bloko-tag bloko-tag_inline"
+                    >
+                      <span
+                        class="bloko-tag__section bloko-tag__section_text"
+                        data-qa="bloko-tag__text"
+                      >
+                        <p data-qa="resume-block-language-item">
+                          Русский — Родной
+                        </p>
+                      </span>
+                    </div>
+                    <br />
+                    <div
+                      class="bloko-tag bloko-tag_inline"
+                      data-qa="bloko-tag bloko-tag_inline"
+                    >
+                      <span
+                        class="bloko-tag__section bloko-tag__section_text"
+                        data-qa="bloko-tag__text"
+                      >
+                        <p data-qa="resume-block-language-item">
+                          Английский — A2 — Элементарный
+                        </p>
+                      </span>
+                    </div>
+                    <br />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div data-qa="resume-block-additional-education" class="resume-block">
+            <div class="bloko-columns-row">
+              <div
+                class="bloko-column bloko-column_xs-4 bloko-column_s-8 bloko-column_m-9 bloko-column_l-12"
+              >
+                <div class="resume-block-container">
+                  <div class="resume-block__title-text-wrapper">
+                    <h2
+                      data-qa="bloko-header-2"
+                      class="bloko-header-2 bloko-header-2_lite"
+                    >
+                      <span
+                        class="resume-block__title-text resume-block__title-text_sub"
+                      >
+                        Повышение квалификации, курсы
+                      </span>
+                    </h2>
+                  </div>
+                  <div class="bloko-v-spacing bloko-v-spacing_base-4"></div>
+                </div>
+              </div>
+            </div>
+            <div class="resume-block-item-gap">
+              <div class="bloko-columns-row">
+                <div class="resume-block-item-gap">
+                  <div class="bloko-columns-row">
+                    <div
+                      class="bloko-column bloko-column_xs-4 bloko-column_s-2 bloko-column_m-2 bloko-column_l-2"
+                    >
+                      2024
+                    </div>
+                    <div
+                      class="bloko-column bloko-column_xs-4 bloko-column_s-6 bloko-column_m-7 bloko-column_l-10"
+                    >
+                      <div
+                        class="resume-block-container"
+                        data-qa="resume-block-education-item"
+                      >
+                        <div
+                          data-qa="resume-block-education-name"
+                          class="bloko-text bloko-text_strong"
+                        >
+                          <span>Факультет Frontend разработки</span>
+                        </div>
+                        <div data-qa="resume-block-education-organization">
+                          <span>ООО «GeekBrains»</span>
+                          <span>,</span>
+                          <span>Frontend разработчик</span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            data-qa="resume-block-attestation-education"
+            class="resume-block"
+          >
+            <div class="bloko-columns-row">
+              <div
+                class="bloko-column bloko-column_xs-4 bloko-column_s-8 bloko-column_m-9 bloko-column_l-12"
+              >
+                <div class="resume-block-container">
+                  <div class="resume-block__title-text-wrapper">
+                    <h2
+                      data-qa="bloko-header-2"
+                      class="bloko-header-2 bloko-header-2_lite"
+                    >
+                      <span
+                        class="resume-block__title-text resume-block__title-text_sub"
+                      >
+                        Тесты, экзамены
+                      </span>
+                    </h2>
+                  </div>
+                  <div class="bloko-v-spacing bloko-v-spacing_base-4"></div>
+                </div>
+              </div>
+            </div>
+            <div class="resume-block-item-gap">
+              <div class="bloko-columns-row">
+                <div class="resume-block-item-gap">
+                  <div class="bloko-columns-row">
+                    <div
+                      class="bloko-column bloko-column_xs-4 bloko-column_s-2 bloko-column_m-2 bloko-column_l-2"
+                    >
+                      2024
+                    </div>
+                    <div
+                      class="bloko-column bloko-column_xs-4 bloko-column_s-6 bloko-column_m-7 bloko-column_l-10"
+                    >
+                      <div
+                        class="resume-block-container"
+                        data-qa="resume-block-education-item"
+                      >
+                        <div
+                          data-qa="resume-block-education-name"
+                          class="bloko-text bloko-text_strong"
+                        >
+                          <span>Итоговая аттестация</span>
+                        </div>
+                        <div data-qa="resume-block-education-organization">
+                          <span>ООО "GeekBrains"</span>
+                          <span>,</span>
+                          <span>Frontend разработчик</span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div data-qa="resume-block-certificate" class="resume-block">
+            <div class="bloko-columns-row">
+              <div
+                class="bloko-column bloko-column_xs-4 bloko-column_s-8 bloko-column_m-9 bloko-column_l-12"
+              >
+                <div class="resume-block-container">
+                  <div class="resume-block__title-text-wrapper">
+                    <h2
+                      data-qa="bloko-header-2"
+                      class="bloko-header-2 bloko-header-2_lite"
+                    >
+                      <span
+                        class="resume-block__title-text resume-block__title-text_sub"
+                      >
+                        Электронные сертификаты
+                      </span>
+                    </h2>
+                  </div>
+                  <div class="bloko-v-spacing bloko-v-spacing_base-4"></div>
+                </div>
+              </div>
+            </div>
+            <div class="resume-block-item-gap">
+              <div class="bloko-columns-row">
+                <div
+                  class="bloko-column bloko-column_xs-4 bloko-column_s-8 bloko-column_m-9 bloko-column_l-12"
+                >
+                  <div class="resume-block-container">
+                    <div class="resume-certificates">
+                      <div class="bloko-gap bloko-gap_bottom">
+                        <div class="h-resume-certificates-view">
+                          <div class="resume-certificates-view">
+                            <div class="resume-certificates-view__year-group">
+                              <div
+                                class="resume-certificates-view__year-group-title"
+                              >
+                                <div class="bloko-text bloko-text_small">
+                                  2024
+                                </div>
+                              </div>
+                              <ul class="resume-certificates-view__items">
+                                <li class="resume-certificates-view__item">
+                                  <div class="bloko-text bloko-text_small">
+                                    <a
+                                      href="https://gb.ru/certificates/2669099"
+                                      target="_blank"
+                                      rel="noopener noreferrer"
+                                      class="bloko-link"
+                                    >
+                                      JavaScript про API браузеров
+                                    </a>
+                                  </div>
+                                </li>
+                                <li class="resume-certificates-view__item">
+                                  <div class="bloko-text bloko-text_small">
+                                    <a
+                                      href="https://gb.ru/certificates/2590462"
+                                      target="_blank"
+                                      rel="noopener noreferrer"
+                                      class="bloko-link"
+                                    >
+                                      JavaScript про ECMAScript
+                                    </a>
+                                  </div>
+                                </li>
+                                <li class="resume-certificates-view__item">
+                                  <div class="bloko-text bloko-text_small">
+                                    <a
+                                      href="https://gb.ru/certificates/2530302"
+                                      target="_blank"
+                                      rel="noopener noreferrer"
+                                      class="bloko-link"
+                                    >
+                                      Продвинутый HTML + CSS
+                                    </a>
+                                  </div>
+                                </li>
+                                <li class="resume-certificates-view__item">
+                                  <div class="bloko-text bloko-text_small">
+                                    <a
+                                      href="https://gb.ru/certificates/2665504"
+                                      target="_blank"
+                                      rel="noopener noreferrer"
+                                      class="bloko-link"
+                                    >
+                                      Продвинутый JavaScript
+                                    </a>
+                                  </div>
+                                </li>
+                                <li class="resume-certificates-view__item">
+                                  <div class="bloko-text bloko-text_small">
+                                    <a
+                                      href="https://gb.ru/certificates/2669100"
+                                      target="_blank"
+                                      rel="noopener noreferrer"
+                                      class="bloko-link"
+                                    >
+                                      Фреймворк Vue.js
+                                    </a>
+                                  </div>
+                                </li>
+                              </ul>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="g-clear"></div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div data-qa="resume-block-additional" class="resume-block">
+            <div class="bloko-columns-row">
+              <div
+                class="bloko-column bloko-column_xs-4 bloko-column_s-8 bloko-column_m-9 bloko-column_l-12"
+              >
+                <div class="resume-block-container">
+                  <div class="resume-block__title-text-wrapper">
+                    <h2
+                      data-qa="bloko-header-2"
+                      class="bloko-header-2 bloko-header-2_lite"
+                    >
+                      <span
+                        class="resume-block__title-text resume-block__title-text_sub"
+                      >
+                        Гражданство, время в пути до работы
+                      </span>
+                    </h2>
+                  </div>
+                  <div class="bloko-v-spacing bloko-v-spacing_base-4"></div>
+                </div>
+              </div>
+            </div>
+            <div class="resume-block-item-gap">
+              <div class="bloko-columns-row">
+                <div
+                  class="bloko-column bloko-column_xs-4 bloko-column_s-8 bloko-column_m-9 bloko-column_l-12"
+                >
+                  <div class="resume-block-container">
+                    <p>Гражданство: Россия</p>
+                    <p>Разрешение на работу: Россия</p>
+                    <p>
+                      Желательное время в пути до работы:
+                      <span class="resume-block-travel-time">
+                        Не имеет значения
+                      </span>
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="bloko-columns-row">
+      <div
+        class="bloko-column bloko-column_container bloko-column_xs-0 bloko-column_s-0 bloko-column_m-3 bloko-column_l-4"
+      >
+        <div class="resume-sidebar-background"></div>
+        <div class="bloko-columns-row" data-qa="resume-sidebar">
+          <div class="resume-sidebar-section-wrapper">
+            <div
+              class="bloko-column bloko-column_xs-0 bloko-column_s-0 bloko-column_m-3 bloko-column_l-4"
+            >
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
