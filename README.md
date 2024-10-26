@@ -124,7 +124,7 @@
                           </div>
                           <div data-qa="resume-contact-email">
                             <a href="mailto:slk55slk@gmail.com">
-                              <span>slk55@mail.ru</span>
+                              <span>slk55slk@gmail.com</span>
                             </a>
                           </div>
                           <div data-qa="resume-personalsite-personal">
