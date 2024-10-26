@@ -119,14 +119,11 @@
                               <div
                                 class="resume-search-item-phone-verification-status"
                               >
-                                <div class="bloko-text bloko-text_small">
-                                  Телефон подтвержден
-                                </div>
                               </div>
                             </div>
                           </div>
                           <div data-qa="resume-contact-email">
-                            <a href="mailto:slk55@mail.ru">
+                            <a href="mailto:slk55slk@gmail.com">
                               <span>slk55@mail.ru</span>
                             </a>
                           </div>
